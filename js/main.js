@@ -201,7 +201,7 @@ document.head.appendChild(styleSheet);
         logos: 'الشعارات',
         branding: 'الهويات البصرية',
         'social-media': 'تصاميم السوشيال ميديا',
-        thumbnails: 'صور مصغرات يوتيوب',
+        thumbnails: 'صور مصغره يوتيوب',
         other: 'أعمال أخرى'
     };
 
